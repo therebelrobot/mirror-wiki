@@ -1,0 +1,31 @@
+{
+  "name": "mirror-wiki",
+  "version": "0.0.1",
+  "description": "A Node module that mirrors a Github Repo's Wiki pages",
+  "main": "mirror-wiki.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/mirror-wiki.git"
+  },
+  "keywords": [
+    "mirror",
+    "clone",
+    "fork",
+    "manualfork",
+    "repo",
+    "repository",
+    "wiki",
+    "pages",
+    "github",
+    "git"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/mirror-wiki/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/mirror-wiki#readme"
+}
